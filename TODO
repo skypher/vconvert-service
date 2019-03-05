@@ -1,0 +1,1 @@
+properly manage vendor/ (check out everything with "gb vendor", then add manifest to git)
